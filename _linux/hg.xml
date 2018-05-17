@@ -1,0 +1,11 @@
+<application>
+  <component name="HgGlobalSettings">
+    <option name="myHgExecutable" value="/usr/bin/hg" />
+    <option name="myRememberedUserNames">
+      <map>
+        <entry key="bitbucket.org/alejandroriera/frontend-html5_plus-575-fix-dp-passengers-bags-feature" value="alejandroriera" />
+        <entry key="bitbucket.org/odigeoteam/frontend-html5_plus-448-new-baggages-widget-alex" value="alejandroriera" />
+      </map>
+    </option>
+  </component>
+</application>
