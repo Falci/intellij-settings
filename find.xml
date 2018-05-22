@@ -5,37 +5,15 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*DTO.jav</mask>
-      <mask>*DTO.java</mask>
-      <mask>*DTO.</mask>
-      <mask>*DTO</mask>
-      <mask>*DT</mask>
-      <mask>*D</mask>
-      <mask>*</mask>
-      <mask>*.p</mask>
-      <mask>*.fo</mask>
-      <mask>*.featu</mask>
-      <mask>*.jav</mask>
-      <mask>*.f</mask>
-      <mask>*.fe</mask>
-      <mask>*.fea</mask>
-      <mask>*.feat</mask>
-      <mask>*.featur</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
-      <mask>*.feature</mask>
-      <mask>*.feature</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
-      <mask>*.js*</mask>
-      <mask>*.js.</mask>
-      <mask>*.js</mask>
-      <mask>*.jsp</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.js" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
