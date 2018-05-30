@@ -14,7 +14,21 @@
       <path value="VcsNavBarToobarActions" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Vcs.Push" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
+      <path value="VCS Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Vcs.Push" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="NavBarVcsGroup" />
+      <path value="VcsNavBarToobarActions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <action id="EditorBreadcrumbsHideBoth" />
-    <action id="ChangesView.ApplyPatch" icon="$USER_HOME$/Pictures/icons/text-x-patch (1).png" />
+    <action id="ChangesView.ApplyPatch" icon="$USER_HOME$/Pictures/icons/patch.png" />
   </component>
 </application>
