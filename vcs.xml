@@ -25,9 +25,13 @@
           <option name="url" value="ssh://hg@bitbucket.org/fernandofalci/frontend-html5_ofis-844-googlebot-mobile-not-correctly-detecte" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://hg@bitbucket.org/fernandofalci/frontend-html5_ofis-846-smooth-search-iteration-1" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/workspace/edreams" />
+    <option name="cloneParentDir" value="$USER_HOME$" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/workspace/patches" />
