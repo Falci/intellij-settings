@@ -14,6 +14,7 @@
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
+    <mask>*.feature</mask>
     <mask>*.js</mask>
   </component>
 </application>
