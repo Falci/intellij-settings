@@ -34,6 +34,6 @@
     <option name="cloneParentDir" value="$USER_HOME$" />
   </component>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/workspace/patches" />
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Desktop" />
   </component>
 </application>
