@@ -12,8 +12,8 @@
     <mask>*.json</mask>
     <mask>*.feature</mask>
     <mask>*.scss</mask>
-    <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.js</mask>
+    <mask>*.jsp</mask>
   </component>
 </application>
