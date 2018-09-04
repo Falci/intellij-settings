@@ -3,12 +3,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*.xml</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.scss</mask>
-    <mask>*.properties</mask>
     <mask>*.jsx</mask>
     <mask>*.json</mask>
     <mask>*.jsp</mask>
@@ -17,5 +17,6 @@
     <mask>package.json</mask>
     <mask>*.feature</mask>
     <mask>*.js</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
