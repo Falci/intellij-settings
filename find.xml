@@ -10,12 +10,12 @@
     <mask>*.scss</mask>
     <mask>*.jsx</mask>
     <mask>*.json</mask>
-    <mask>*.jsp</mask>
     <mask>*.java</mask>
     <mask>*.html</mask>
     <mask>package.json</mask>
     <mask>*.feature</mask>
     <mask>*.js</mask>
     <mask>*.properties</mask>
+    <mask>*.jsp</mask>
   </component>
 </application>
