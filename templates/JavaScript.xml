@@ -1,0 +1,6 @@
+<templateSet group="JavaScript">
+  <template name="desc" value="description(&quot;$TEST_NAME$&quot;, () =&gt; {&#10;   it(&quot;should $TEST_ITEM$&quot;, () =&gt; {&#10;     $END$&#10;   })&#10;})" description="Test description" toReformat="false" toShortenFQNames="true">
+    <variable name="TEST_NAME" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="TEST_ITEM" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>
