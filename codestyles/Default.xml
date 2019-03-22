@@ -23,7 +23,7 @@
       <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
     </formatting-settings>
   </DBN-SQL>
-  <JSCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
@@ -36,7 +36,7 @@
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
-  <TypeScriptCodeStyleSettings>
+  <TypeScriptCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
@@ -57,6 +57,11 @@
     <option name="TERNARY_OPERATION_WRAP" value="5" />
     <option name="ARRAY_INITIALIZER_WRAP" value="5" />
     <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
     <option name="RIGHT_MARGIN" value="80" />
