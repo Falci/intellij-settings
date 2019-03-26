@@ -8,6 +8,7 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="TopDestinations/TopDestionations" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="hbs" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
