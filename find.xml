@@ -13,8 +13,8 @@
     <mask>keys.json</mask>
     <mask>*.jsx</mask>
     <mask>*.json</mask>
-    <mask>*.jsp</mask>
     <mask>*.java</mask>
+    <mask>*.jsp</mask>
     <mask>*.js</mask>
   </component>
 </application>
