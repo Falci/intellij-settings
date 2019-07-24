@@ -10,10 +10,11 @@
     <mask>*.mxml</mask>
     <mask>keys.json</mask>
     <mask>*.jsx</mask>
-    <mask>*.java</mask>
-    <mask>*.css</mask>
-    <mask>*.js</mask>
     <mask>*.json</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
     <mask>*.jsp</mask>
+    <mask>*.css</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
