@@ -14,9 +14,9 @@
     <mask>*.json</mask>
     <mask>*.css</mask>
     <mask>*.scss</mask>
-    <mask>*.jsp</mask>
     <mask>*.test.js</mask>
     <mask>*.js</mask>
+    <mask>*.jsp</mask>
     <mask>*.java</mask>
   </component>
 </application>
