@@ -17,5 +17,6 @@
     <mask>*.java</mask>
     <mask>*.json</mask>
     <mask>*.js</mask>
+    <mask>*.feature</mask>
   </component>
 </application>
