@@ -15,6 +15,7 @@
       <mapping pattern="middleware/authMiddleware" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
+      <mapping pattern="tio-cron" type="PLAIN_TEXT" />
       <mapping pattern="signed" type="PLAIN_TEXT" />
       <mapping pattern="docker/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="nginx/Dockerfile" type="PLAIN_TEXT" />
