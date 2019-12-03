@@ -13,9 +13,9 @@
     <mask>*.json</mask>
     <mask>*.css</mask>
     <mask>*.scss</mask>
-    <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*.jsp</mask>
     <mask>pom.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
