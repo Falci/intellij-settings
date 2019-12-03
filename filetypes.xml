@@ -15,6 +15,7 @@
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="sha1" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="cli" type="PLAIN_TEXT" />
       <mapping ext="sha256" type="PLAIN_TEXT" />
       <mapping ext="php" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
